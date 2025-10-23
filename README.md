@@ -80,22 +80,6 @@ env
 - css-processor.mjs - PostCSS configuration
 
 
-## Response:
-## 🖼️ Project Images
-
-### Homepage
-![Homepage](./public/response/HomePage.png)
-
-### Dashboard
-![Dashboard](./public/response/DashBoard.png)
-
-### Task Management
-![Tasks](./public/response/Tasks.png)
-
-### Team Collaboration
-![Chat](./public/response/Chat.png)
-
-
 ## 🚀 Deployment
 # Build for production
 npm run build
