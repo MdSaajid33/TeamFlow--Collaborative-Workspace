@@ -33,13 +33,13 @@ TeamFlow - Collaborative Workspace
 
 - text
 
-## TeamFlow-Workspace/
-├── app/                 # Next.js app router pages
-├── components/          # Reusable UI components
-├── lib/                 # Utilities and configurations
-├── hooks/               # Custom React hooks
-├── public/              # Static assets
-└── styles/              # Global styles and themes
+## TeamFlow-Workspace
+- app/                 # Next.js app router pages
+- components/          # Reusable UI components
+- lib/                 # Utilities and configurations
+- hooks/               # Custom React hooks
+- public/              # Static assets
+- styles/              # Global styles and themes
 
 ## ⚡ Quick Start
 Prerequisites:
